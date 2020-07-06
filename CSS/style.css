@@ -1,5 +1,30 @@
+body {
+	font-family: 'Dosis', sans-serif;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
 .navbar{
     background-image: url(/img/navbar.jpg);
     font-size: 1.2em;
-
+    
 }
+
+.nosesc{
+    background: linear-gradient(132deg, rgba(0,123,255,1) 0%, rgba(253,126,20,1) 55%);
+    font-size: 1.5em;
+    
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    
+}
+
+.border_img{
+    border-radius: 50%;
+    border-color: blue;
+}
+

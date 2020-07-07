@@ -68,3 +68,11 @@ body {
 hr{
     background: white;
 }
+.fan_footer{
+    background-color: rgb(167, 167, 241);
+    background-size: 100%;
+    margin: 30px;
+}
+.margin_logo{
+    margin: 5px 10px 5px 10px;
+}

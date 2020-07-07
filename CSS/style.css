@@ -15,6 +15,7 @@ body {
 
 .nosesc{
     background: linear-gradient(132deg, rgba(0,123,255,1) 0%, rgba(253,126,20,1) 55%);
+    margin-top: 30px;
 
     
 }
@@ -31,7 +32,7 @@ body {
 }
 
 .anota{
-    background: linear-gradient(132deg, rgba(0,123,255,1) 0%, rgba(253,126,20,1) 55%);
+    background-image: url(/img/anota.jpg);
     font-size: 1em;
 }
 
@@ -44,4 +45,26 @@ body {
     margin-left: 20px;
     margin-right: 20px;
     border-radius: 5%;
+}
+.fandom{
+    background-image: url(/img/fala.jpg);
+    background-size: cover;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.container-fluid{
+    width: 50%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.fala{
+    background: rgb(0,0,0, .6);
+    color: white;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 3px blue;
+    background-size: cover;
+   
+}
+hr{
+    background: white;
 }
